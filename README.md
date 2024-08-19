@@ -16,6 +16,7 @@ Collect LLM Quantization related papers, data, repositories
  - [[ICML](https://icml.cc/virtual/2024/poster/32921)] Compressing Large Language Models by Joint Sparsification and Quantization [[code](https://github.com/uanu2002/JSQ)]![GitHub Repo stars](https://img.shields.io/github/stars/uanu2002/JSQ)
  - [[ICML](https://arxiv.org/abs/2402.02446)] LQER: Low-Rank Quantization Error Reconstruction for LLMs [[code](https://github.com/ChengZhang-98/lqer)]![GitHub Repo stars](https://img.shields.io/github/stars/ChengZhang-98/lqer)
  - [[ICML](https://arxiv.org/abs/2402.05445)] Accurate LoRA-Finetuning Quantization of LLMs via Information Retention [[code](https://github.com/htqin/ir-qlora)]![GitHub Repo stars](https://img.shields.io/github/stars/htqin/ir-qlora)
+ - [[ACL](https://arxiv.org/pdf/2402.11960)] DB-LLM: Accurate Dual-Binarization for Efficient LLMs [[code]()]![GitHub Repo stars]()
 ### 2023
  - [[ICML](https://arxiv.org/abs/2211.10438)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [[code](https://github.com/mit-han-lab/smoothquant)]![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant)
  - [[EMNLP](https://arxiv.org/abs/2304.09145)] Outlier Suppression+: Accurate quantization of large language models by equivalent and effective shifting and scaling [[code](https://github.com/ModelTC/Outlier_Suppression_Plus)]![GitHub Repo stars](https://img.shields.io/github/stars/ModelTC/Outlier_Suppression_Plus)
