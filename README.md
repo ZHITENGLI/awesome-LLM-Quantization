@@ -52,6 +52,10 @@ Collect LLM Quantization related papers, data, repositories
  - [[NeurIPS](https://arxiv.org/pdf/2306.11987)] Training Transformers with 4-bit Integers
  - [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/0113ef4642264adc2e6924a3cbbdf532-Paper-Conference.pdf)] TexQ: Zero-shot Network Quantization with Texture Feature Distribution Calibration
  - [[ACL](https://arxiv.org/pdf/2306.00014)] PreQuant: A Task-agnostic Quantization Approach for Pre-trained Language Models
+ - [[ICLR](https://arxiv.org/pdf/2210.17323)] OPTQ: Accurate Quantization for Generative Pre-trained Transformers  [[code](https://github.com/ist-daslab/gptq)]
+ - [[ICLR](https://arxiv.org/pdf/2210.08502)] FIT: A Metric for Model Sensitivity 
+ - [[ICLR](https://arxiv.org/pdf/2301.09858)] PowerQuant: Automorphism Search for Non-Uniform Quantization
+ - [[ICLR](https://arxiv.org/pdf/2112.10769)] Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats 
 ### 2022
 - [[NeurIPS](https://arxiv.org/pdf/2206.01861)] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers [[code](https://github.com/microsoft/DeepSpeed)]![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed)
 - [[NeurIPS](https://arxiv.org/pdf/2208.07339)] LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scal [[code](https://github.com/bitsandbytes-foundation/bitsandbytes)]![GitHub Repo stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes)
