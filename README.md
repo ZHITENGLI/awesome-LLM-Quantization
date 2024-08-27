@@ -26,7 +26,17 @@ Collect LLM Quantization related papers, data, repositories
  - [[NeurIPS](https://arxiv.org/pdf/2310.08659)] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [[code](https://github.com/yxli2123/LoftQ)]![GitHub Repo stars](https://img.shields.io/github/stars/yxli2123/LoftQ)
  - [[NeurIPS](https://arxiv.org/pdf/2308.09723)] FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs
  - [[ICLR](https://arxiv.org/pdf/2308.13137)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models [[code](https://github.com/OpenGVLab/OmniQuant)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/OmniQuant)
- - [[ICLR](https://arxiv.org/pdf/2310.08659)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models [[code](https://arxiv.org/pdf/2310.08659)]
+ - [[ICLR](https://arxiv.org/pdf/2310.08659)] LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models [[code](https://github.com/yxli2123/LoftQ)]
+ - [[ICLR](https://arxiv.org/pdf/2309.15531)] Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models [[code](https://github.com/johnheo/adadim-llm)]
+ - [[ICLR](https://arxiv.org/pdf/2403.12544)] AffineQuant: Affine Transformation Quantization for Large Language Models [[code](https://github.com/bytedance/AffineQuant)]
+ - [[ICLR](https://arxiv.org/pdf/2306.03078)] SpQR: ASparse-Quantized Representation for Near-Lossless LLM Weight Compression [[code](https://github.com/Vahe1994/SpQR)]
+ - [[ICLR](https://arxiv.org/pdf/2310.08041)] QLLM: ACCURATE AND EFFICIENT LOW-BITWIDTH QUANTIZATION FOR LARGE LANGUAGE MODELS [[code](https://github.com/ziplab/QLLM)]
+ - [[ICLR](https://arxiv.org/pdf/2310.01382)] COMPRESSING LLMS: THE TRUTH IS RARELY PURE AND NEVER SIMPLE [[code](https://github.com/VITA-Group/llm-kick)]
+ - [[ICLR](https://arxiv.org/pdf/2311.12023)] LQ-LORA: LOW-RANK PLUS QUANTIZED MATRIX DECOMPOSITION FOR EFFICIENT LANGUAGE MODEL FINETUNING [[code](https://github.com/HanGuo97/lq-lora)]
+ - [[ICLR](https://arxiv.org/pdf/2309.14717)] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [[code](https://github.com/yuhuixu1993/qa-lora)]
+ - [[NAACL](https://arxiv.org/pdf/2403.16187)] ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models
+ - [[NAACL](https://arxiv.org/pdf/2311.01544)] Divergent Token Metrics: Measuring degradation to prune away LLM components – and optimize quantization
+ - [[NAACL](https://arxiv.org/pdf/2406.16299)] Compensate Quantization Errors: Make Weights Hierarchical to Compensate Each Other
 ### 2023
  - [[ICML](https://arxiv.org/abs/2211.10438)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [[code](https://github.com/mit-han-lab/smoothquant)]![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant)
  - [[EMNLP](https://arxiv.org/abs/2304.09145)] Outlier Suppression+: Accurate quantization of large language models by equivalent and effective shifting and scaling [[code](https://github.com/ModelTC/Outlier_Suppression_Plus)]![GitHub Repo stars](https://img.shields.io/github/stars/ModelTC/Outlier_Suppression_Plus)
