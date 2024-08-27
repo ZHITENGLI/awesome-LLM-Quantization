@@ -26,6 +26,7 @@ Collect LLM Quantization related papers, data, repositories
  - [[NeurIPS](https://arxiv.org/pdf/2310.08659)] LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [[code](https://github.com/yxli2123/LoftQ)]![GitHub Repo stars](https://img.shields.io/github/stars/yxli2123/LoftQ)
  - [[NeurIPS](https://arxiv.org/pdf/2308.09723)] FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs
  - [[ICLR](https://arxiv.org/pdf/2308.13137)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models [[code](https://github.com/OpenGVLab/OmniQuant)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/OmniQuant)
+ - [[ICLR](https://arxiv.org/pdf/2310.08659)] OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models [[code](https://arxiv.org/pdf/2310.08659)]
 ### 2023
  - [[ICML](https://arxiv.org/abs/2211.10438)] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [[code](https://github.com/mit-han-lab/smoothquant)]![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/smoothquant)
  - [[EMNLP](https://arxiv.org/abs/2304.09145)] Outlier Suppression+: Accurate quantization of large language models by equivalent and effective shifting and scaling [[code](https://github.com/ModelTC/Outlier_Suppression_Plus)]![GitHub Repo stars](https://img.shields.io/github/stars/ModelTC/Outlier_Suppression_Plus)
