@@ -4,6 +4,9 @@ Collect LLM Quantization related papers, data, repositories
 
 ## Papers
 
+- **OneComp: One-Line Revolution for Generative AI Model Compression** (arXiv 2026) — Unified PTQ pipeline for LLMs. [[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
+- **QEP: Quantization Error Propagation** (NeurIPS 2025) — Layer-wise PTQ with residual propagation. [[Paper](https://openreview.net/forum?id=a3l3K9khbL)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
+
 ### 2024
 
  - [[ICML](https://arxiv.org/abs/2402.04291)] BiLLM: Pushing the Limit of Post-Training Quantization for LLMs [[code](https://github.com/Aaronhuang-778/BiLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/Aaronhuang-778/BiLLM)
